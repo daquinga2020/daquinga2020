@@ -1,4 +1,8 @@
-### Hi there 👋, I am Daniel
+<h1 align="center">Hi 👋, I'm Daniel Quinga López</h1>
+
+<h3 align="center">A student in software robotics engineering, at King Juan Carlos University, Spain 🤖</h3>
+
+* * *
 
 <!--
 **daquinga2020/daquinga2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
